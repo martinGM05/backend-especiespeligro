@@ -7,6 +7,12 @@ Hack the Ocean es un hackathon con la iniciativa de implementar tecnologias de F
 Este proyecto apunta a crear consciencia de las distintas especies con a las que habitamos en el planeta, la situacion enla que se encuentran debido al cambio climatico, afectacion de su habitad, perdida de sus fuentes de alimento y la constante expansion del territorio humano.
 Puedes vizualizar el proyecto aqui [Wooper al rescate](https://hacktheocean.azurewebsites.net/)
 
+## Si desea descargar el proyecto y correrlo.
+-   Solo haga un clon a este repositorio con `git clone <urlRepo>`
+-   Instala las dependencias necesarias `npm install`
+-   Necesita una conexión a un cluster de MongoDB y poner la clave en un archivo .env
+-   Ejecutar `npm run start`
+
 ### Tecnologías utilizadas en este proyecto
 
 **Node.js**
@@ -121,8 +127,4 @@ Se realizaron pruebas unitarias, implementadas mediante Jest, al módulo de help
 
 ### GitHub Actions & Azure
 ![github actions](https://static.gunnarpeipman.com/wp-content/uploads/2020/05/azure-static-web-app.png)
-
-
-Para instalar las dependencias con el repositorio solo corre el comando:
->npm install
  
