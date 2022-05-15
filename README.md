@@ -13,7 +13,7 @@ Puedes vizualizar el proyecto aqui [Wooper al rescate](https://calm-glacier-02bd
 -   Necesita una conexión a un cluster de MongoDB y poner la clave en un archivo .env
 -   Ejecutar `npm run start`
 
-### Tecnologías utilizadas en este proyecto
+### Tecnologías utilizadas en este proyecto.
 
 **Node.js**
 
