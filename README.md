@@ -5,7 +5,7 @@ Hack the Ocean es un hackathon con la iniciativa de implementar tecnologias de F
 
 ## Woopas al Rescate 
 Este proyecto apunta a crear consciencia de las distintas especies con a las que habitamos en el planeta, la situacion enla que se encuentran debido al cambio climatico, afectacion de su habitad, perdida de sus fuentes de alimento y la constante expansion del territorio humano.
-Puedes vizualizar el proyecto aqui [Wooper al rescate](https://hacktheocean.azurewebsites.net/)
+Puedes vizualizar el proyecto aqui [Wooper al rescate](https://calm-glacier-02bd19710.1.azurestaticapps.net/)
 
 ## Si desea descargar el proyecto y correrlo.
 -   Solo haga un clon a este repositorio con `git clone <urlRepo>`
