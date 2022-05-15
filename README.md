@@ -13,6 +13,9 @@ Puedes vizualizar el proyecto aqui [Wooper al rescate](https://calm-glacier-02bd
 -   Necesita una conexión a un cluster de MongoDB y poner la clave en un archivo .env
 -   Ejecutar `npm run start`
 
+# Página - Frontend
+El frontend se encuentra en este [repositorio.](https://github.com/martinGM05/Hack-The-Ocean-Front)
+
 ### Tecnologías utilizadas en este proyecto.
 
 **Node.js**
