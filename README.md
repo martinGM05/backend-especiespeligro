@@ -127,4 +127,13 @@ Se realizaron pruebas unitarias, implementadas mediante Jest, al módulo de help
 
 ### GitHub Actions & Azure
 ![github actions](https://static.gunnarpeipman.com/wp-content/uploads/2020/05/azure-static-web-app.png)
+
+| Integrantes | Correo |
+|---|---|
+| Aydin Dueñas Salman | launchx06588@innovaccion.mx |
+| Alejandro Garcia Cervantes | launchx07127@innovaccion.mx |
+| Eduardo Daniel Meza Ledezma | launchx02737@innovaccion.mx |
+| Jorge Alexis Alvarado Ayala | launchx01097@innovaccion.mx |
+| Martín González Miranda | launchx09924@innovaccion.mx |
+
  
